@@ -13,13 +13,13 @@ const About = () => {
               <p>The only thing we're serious about is food.</p>
             </div>
             <p className="mid">
-              Lorem ipsum dolor sit, amet consectetur adipisicing elit.
-              Provident possimus optio adipisci dolores impedit illum iusto
-              perferendis, laudantium quod accusamus consequuntur consectetur,
-              tempore nulla error iure reiciendis dolorem assumenda.
-              Necessitatibus fugit asperiores totam rem esse exercitationem
-              iusto ipsum qui dolore ex, accusantium repellat mollitia
-              repellendus.
+             Welcome to Khana Khazana! Our mission is to bring you a delightful dining experience 
+             through a seamless combination of delicious food, excellent service, and an easy-to-use app that
+             enhances your visit. Whether you're craving a quick bite or planning a family meal, we have 
+             something for everyone.
+              Our team is passionate about creating fresh, flavorful dishes with the finest ingredients,
+               and we believe in making every meal memorable. With our app, you can easily explore our menu,
+                place an order, or make a reservation—all from the convenience of your phone.
             </p>
             <Link to={"/"}>
               Explore Menu{" "}

@@ -49,7 +49,7 @@ const Reservation = () => {
         <div className="banner">
           <div className="reservation_form_box">
             <h1>MAKE A RESERVATION</h1>
-            <p>For Further Questions, Please Call</p>
+            <p>For Further Questions, Please Call 9044260803</p>
             <form>
               <div>
                 <input

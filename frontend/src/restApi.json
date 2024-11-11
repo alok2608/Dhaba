@@ -5,38 +5,38 @@
                 "id": 1,
                 "image": "./quality_food.svg",
                 "title": "QUALITY FOOD",
-                "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis repellendus officia qui repellat." 
+                "description": "Only the freshest ingredients, prepared with care for every meal." 
             },
             {
                 "id": 2,
                 "image": "./super_taste.svg",
                 "title": "SUPER TASTE",
-                "description": "Lorem ipsum dolor sit amet consectetur, adipisicing sit amet elit. Sit voluptates quaerat pariatur." 
+                "description": "Flavor-packed dishes that will leave you coming back for more." 
             },
             {
                 "id": 3,
                 "image": "./fast_delivery.svg",
                 "title": "FAST DELIVERY",
-                "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis repellendus officia qui repellat." 
+                "description": "Your favorite meals, delivered hot and fresh, right to your doorstep." 
             }
         ],
         "dishes": [
             {
                 "id": 1,
                 "image": "./dinner1.jpeg",
-                "title": "ROASTED LAMB RUMP",
+                "title": "ROASTED CHICKEN ",
                 "category": "Dinner"
             },
             {
                 "id": 2,
                 "image": "./dinner2.png",
-                "title": "CITRUS CURED SALMON",
+                "title": "LEMON TANDOORI FISH",
                 "category": "Dinner"
             },
             {
                 "id": 3,
                 "image": "./breakfast1.png",
-                "title": "PAN SEARED SEA BASS",
+                "title": "PANEER TIKKA SALAD",
                 "category": "Breakfast"
             },
             {
@@ -48,19 +48,19 @@
             {
                 "id": 5,
                 "image": "./lunch1.png",
-                "title": "BEEF BURGER MEAL",
+                "title": "CHEESE BURGER ",
                 "category": "Lunch"
             },
             {
                 "id": 6,
                 "image": "./dinner4.png",
-                "title": "MUSSELS SOUP",
+                "title": "CHICKEN SOUP",
                 "category": "Dinner"
             },
             {
                 "id": 7,
                 "image": "./dinner5.png",
-                "title": "ITALIAN SPAGHETTI",
+                "title": "HAKKA NOODLES",
                 "category": "Dinner"
             },
             {
@@ -74,25 +74,25 @@
             {
                 "id": 1,
                 "image": "./team_member_1.png",
-                "name": "JOHNATHAN TYLER",
+                "name": "ALOK PATEL",
                 "designation": "Founder & Head Chef"
             },
             {
                 "id": 2,
                 "image": "./team_member_2.png",
-                "name": "WADE WARREN",
-                "designation": "Sous Chef"
+                "name": "DEV RATHI",
+                "designation": "Deputy Chef"
             },
             {
                 "id": 3,
                 "image": "./team_member_3.png",
-                "name": "JHON DOE",
+                "name": "ARYAN SINGH",
                 "designation": "Fast Food Chef"
             },
             {
                 "id": 4,
                 "image": "./team_member_4.png",
-                "name": "ALEX COAL",
+                "name": "SOUMYADEEP",
                 "designation": "Senior Chef"
             }
         ],
