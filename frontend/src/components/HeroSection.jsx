@@ -28,7 +28,7 @@ const HeroSection = () => {
           <div className="imageBox">
             <img src="hero2.png" alt="hero" />
           </div>
-          <h1 className="title dishes_title">tale</h1>
+          <h1 className="title dishes_title">tales</h1>
         </div>
       </div>
     </section>
